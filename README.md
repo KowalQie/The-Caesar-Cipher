@@ -4,4 +4,4 @@ The Caesar Cipher, used by Julius Caesar around 58 BC, is a substitution cipher 
 To decrypt, the receiver reverses the shift.
 
 
-                                                        ![pobrane](https://github.com/KowalQie/The-Caesar-Cipher/assets/152272520/10a4cf87-f3f3-4852-b7ee-57522fa16598)
+![pobrane](https://github.com/KowalQie/The-Caesar-Cipher/assets/152272520/10a4cf87-f3f3-4852-b7ee-57522fa16598)
